@@ -1,8 +1,8 @@
-# 🎙️ Meeting Minutes Generator from Audio
+#  Meeting Minutes Generator from Audio
 
 This project demonstrates how to transcribe meeting audio into text and generate structured meeting minutes (summary, key points, takeaways, and action items) using **OpenAI Whisper**, **Hugging Face Transformers**, and **quantization** techniques for efficient model loading.
 
-## 🚀 Features
+##  Features
 
 * Transcribe audio files into text using:
 
